@@ -194,6 +194,7 @@ h1 {
 .women{
     width: 100%;
     border-radius: 30px;
+    vertical-align: bottom;
 }
 .absolute {
     position: relative;
@@ -344,4 +345,7 @@ h3{
 }
 .padding-2{
     padding: 5rem;
+}
+.fifth-team-img{
+    vertical-align: bottom;
 }
